@@ -1,0 +1,6 @@
+framework module SimpleCalculator {
+  umbrella header "SimpleCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}
