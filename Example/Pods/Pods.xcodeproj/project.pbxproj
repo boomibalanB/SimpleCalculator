@@ -50,7 +50,7 @@
 		499F6A194D3284499FFEA906D1AF0645 /* Pods-SimpleCalculator_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SimpleCalculator_Example.release.xcconfig"; sourceTree = "<group>"; };
 		529A53F855697E1BDA285F7906536050 /* Pods-SimpleCalculator_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SimpleCalculator_Tests-dummy.m"; sourceTree = "<group>"; };
 		5F9AE946354D84956885C0FCFE6B768F /* Pods-SimpleCalculator_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SimpleCalculator_Example-umbrella.h"; sourceTree = "<group>"; };
-		6C17CAD62D81A07F0071EF35 /* SampleCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleCalculator.swift; sourceTree = "<group>"; };
+		6C17CAD62D81A07F0071EF35 /* SimpleCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleCalculator.swift; sourceTree = "<group>"; };
 		83DC902316A7A349456885D553931CE9 /* Pods-SimpleCalculator_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SimpleCalculator_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		96A0AD36D6B8694B85ACFB6738FB5396 /* Pods-SimpleCalculator_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SimpleCalculator_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -190,7 +190,7 @@
 		6C17CAD42D81A0340071EF35 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				6C17CAD62D81A07F0071EF35 /* SampleCalculator.swift */,
+				6C17CAD62D81A07F0071EF35 /* SimpleCalculator.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
