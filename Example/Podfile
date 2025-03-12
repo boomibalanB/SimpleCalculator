@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SimpleCalculator_Example' do
+  pod 'SimpleCalculator', :path => '../'
+
+  target 'SimpleCalculator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
